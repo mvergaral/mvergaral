@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack developer Junior. Love photography, music and coffee<br>
+Full Stack Developer. Love photography, music and coffee<br>
 
 
 ## 🌐 Socials:
